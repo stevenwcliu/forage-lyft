@@ -1,2 +1,2 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+# Task 1: Software Architecture
+Come up with a clean design for a messy component
