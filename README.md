@@ -1,7 +1,5 @@
 # Task 1: Software Architecture
-Come up with a clean design for a messy component
-
-The component is responsible for determining whether cars in Lyft’s new rental fleet should be serviced when they are returned. 
+Come up with a clean design for a messy component. The component is responsible for determining whether cars in Lyft’s new rental fleet should be serviced when they are returned. 
 
 Requirement:
 - Should allow easy extensibility going forward
